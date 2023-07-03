@@ -68,10 +68,9 @@ body {
 /*--------------------------media quary----------------------------------------------------*/
 @media only screen and (max-width: 600px) {
     .main {
-        margin: 20px;
         flex-direction: column-reverse;
         width: 350px;
-        max-height: 1000px;
+        max-height: 900px;
         overflow:visible;
         text-align: center;
     }
