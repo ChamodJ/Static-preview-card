@@ -64,3 +64,29 @@ body {
     margin: 0;
     filter: sepia(15%) saturate(1950%) hue-rotate(225deg) brightness(70%) contrast(95%); ;
 }
+
+/*--------------------------media quary----------------------------------------------------*/
+@media only screen and (max-width: 600px) {
+    .main {
+        margin: 20px;
+        flex-direction: column-reverse;
+        width: 350px;
+        max-height: 1000px;
+        overflow:visible;
+        text-align: center;
+    }
+
+    .discription-div {
+        padding: 20px;
+    }
+
+    .static-div {
+        flex-direction: column;
+        
+    }
+
+    .image-div img {
+        width: 350px;
+        height: 250px;
+    }
+}
