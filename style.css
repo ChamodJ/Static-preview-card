@@ -59,4 +59,5 @@ body {
     width: 450px;
     height: 400px;
     margin: 0;
+    filter: sepia(15%) saturate(1950%) hue-rotate(225deg) brightness(70%) contrast(95%); ;
 }
