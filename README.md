@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-
-
+![Screenshot 2023-07-03 233431](https://github.com/ChamodJ/Static-preview-card/assets/121800679/1abd5ffe-70bb-4f78-9f38-6b161d3bdc91)
+![Screenshot 2023-07-03 233458](https://github.com/ChamodJ/Static-preview-card/assets/121800679/452376fc-412e-4b27-a204-08ade7ad2883)
 
 ### Links
 
